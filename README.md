@@ -1,3 +1,8 @@
+
+Results :
+ 
+![Screenshot from 2024-04-27 23-28-02](https://github.com/smitdumore/SFM_from_Scratch/assets/75038294/81d03e90-ac20-4531-a47f-325768d5d717)
+
 Reference :
 
 1. https://github.com/sakshikakde/SFM/blob/master/Code/PnPRansac.py
